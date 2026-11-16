@@ -1,4 +1,3 @@
--- database.sql
 
 CREATE TABLE IF NOT EXISTS Categorie (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
