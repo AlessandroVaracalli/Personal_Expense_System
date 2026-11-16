@@ -4,7 +4,7 @@
 
 - Interprete: Python 3.x
 
-- Librerie standard utilizzate: sqlite3 (per l'interazione con il database). Non è richiesta l'installazione di librerie esterne.
+- Librerie utilizzate: sqlite3. Non è richiesta l'installazione di librerie esterne.
 
 ## Istruzioni per eseguire il programma:
 
